@@ -2,13 +2,13 @@
 title: びっくりドンキーで作った Android アプリ、Google Play「12 人 × 14 日」の壁を越えるためにテスターを募集します
 tags:
   - Kotlin
-  - Claude
-  - AndroidDev
   - GooglePlay
+  - Claude
   - クローズドテスト
+  - AndroidDev
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-05-20T22:38:46+09:00'
+id: 9dfa4998274439ed5b3a
 organization_url_name: null
 slide: false
 ignorePublish: false
