@@ -28,7 +28,9 @@ ignorePublish: false
 - GitHub / GitLab に加えて Dropbox / Box / Google Drive 同期
 - 広告なし・サブスクなし。3リポジトリ目以降だけ**買い切り Pro**
 
-> 📷 ここにスクリーンショットを2〜3枚（ノート一覧 / エディタ / タグクラウド）。Qiita はエディタに画像をドラッグ&ドロップで貼れます。
+<img src="https://raw.githubusercontent.com/ymatsuza1128/qiita/main/images/gitmd-hero.png" width="240"> <img src="https://raw.githubusercontent.com/ymatsuza1128/qiita/main/images/gitmd-editor.png" width="240"> <img src="https://raw.githubusercontent.com/ymatsuza1128/qiita/main/images/gitmd-ai.png" width="240">
+
+*↑ Play Store 掲載の実機スクリーンショット。右端はアプリ内の AI 執筆支援（自分の API キーで Gemini / OpenAI / Anthropic を使う BYOK 機能）——「作るのも AI、書くのも AI」。*
 
 ## 1ヶ月の成果を「数字」で
 
