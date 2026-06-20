@@ -18,7 +18,7 @@
 
 ついでに **テスターも募集しています**。詳細は本記事末尾に。
 
-<img src="https://raw.githubusercontent.com/ymatsuza1128/qiita/main/images/playstore-icon-512.png" width="160">
+<img src="https://raw.githubusercontent.com/ymatsuza/qiita/main/images/playstore-icon-512.png" width="160">
 
 ---
 
@@ -143,7 +143,7 @@ GitHub のリポジトリを Markdown ノートの保存先として使える An
 | ノート一覧 4 ビュー | Standard / Journal / Card / Grid |
 | 任意 Git ホスト＋ PAT | Codeberg 等 Gitea/Forgejo 系でも動作確認済み |
 
-<img src="https://raw.githubusercontent.com/ymatsuza1128/qiita/main/images/gitmd-screenshot1.png" width="200"> <img src="https://raw.githubusercontent.com/ymatsuza1128/qiita/main/images/gitmd-screenshot2.png" width="200"> <img src="https://raw.githubusercontent.com/ymatsuza1128/qiita/main/images/gitmd-screenshot3.png" width="200"> <img src="https://raw.githubusercontent.com/ymatsuza1128/qiita/main/images/gitmd-screenshot4.png" width="200">
+<img src="https://raw.githubusercontent.com/ymatsuza/qiita/main/images/gitmd-screenshot1.png" width="200"> <img src="https://raw.githubusercontent.com/ymatsuza/qiita/main/images/gitmd-screenshot2.png" width="200"> <img src="https://raw.githubusercontent.com/ymatsuza/qiita/main/images/gitmd-screenshot3.png" width="200"> <img src="https://raw.githubusercontent.com/ymatsuza/qiita/main/images/gitmd-screenshot4.png" width="200">
 
 ### 参加方法（2 ステップ）
 
