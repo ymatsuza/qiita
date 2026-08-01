@@ -7,11 +7,13 @@ tags:
   - adb
   - OSS
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-08-01T09:21:02+09:00'
+id: a26825e332f443ac5e6c
 organization_url_name: null
 slide: false
 ignorePublish: false
+posting_campaign_uuid: null
+agreed_posting_campaign_term: false
 ---
 手元に検証用の Android 端末が数台あり、そのうちの1台を Mac のサブディスプレイに使いたかった。Sidecar は iPad 専用で、市販の有償アプリは会社の端末に入れるまでの手続きが重い。探していたところ [LukeLogix/android-display](https://github.com/LukeLogix/android-display)（Apache License 2.0）を見つけた。Mac に**本物の仮想ディスプレイ**を生やしてタブレットへ H.264 で飛ばす、という素直な作りで、単体では期待どおり動いた。
 
